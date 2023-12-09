@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Fact.dir/objects.a
+C:\PROGRA~2\mingw64\bin\ar.exe qc CMakeFiles\Fact.dir/objects.a @CMakeFiles\Fact.dir\objects1.rsp
+C:\PROGRA~2\mingw64\bin\C__~1.EXE -Wl,--whole-archive CMakeFiles\Fact.dir/objects.a -Wl,--no-whole-archive -o Fact.exe -Wl,--out-implib,libFact.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Fact.dir\linkLibs.rsp

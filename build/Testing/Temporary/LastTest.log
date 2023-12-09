@@ -1,0 +1,165 @@
+Start testing: Dec 09 00:45 Egypt Standard Time
+----------------------------------------------------------
+1/6 Testing: DifferentValues/FactTesting.FactorialResult/(0, 1)
+1/6 Test: DifferentValues/FactTesting.FactorialResult/(0, 1)
+Command: "D:/IMT Scolarship/GTest/LAB1/build/Fact.exe" "--gtest_filter=DifferentValues/FactTesting.FactorialResult/0" "--gtest_also_run_disabled_tests"
+Directory: D:/IMT Scolarship/GTest/LAB1/build
+"DifferentValues/FactTesting.FactorialResult/(0, 1)" start time: Dec 09 00:45 Egypt Standard Time
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DifferentValues/FactTesting.FactorialResult/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DifferentValues/FactTesting
+[ RUN      ] DifferentValues/FactTesting.FactorialResult/0
+[       OK ] DifferentValues/FactTesting.FactorialResult/0 (0 ms)
+[----------] 1 test from DifferentValues/FactTesting (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"DifferentValues/FactTesting.FactorialResult/(0, 1)" end time: Dec 09 00:45 Egypt Standard Time
+"DifferentValues/FactTesting.FactorialResult/(0, 1)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: DifferentValues/FactTesting.FactorialResult/(1, 1)
+2/6 Test: DifferentValues/FactTesting.FactorialResult/(1, 1)
+Command: "D:/IMT Scolarship/GTest/LAB1/build/Fact.exe" "--gtest_filter=DifferentValues/FactTesting.FactorialResult/1" "--gtest_also_run_disabled_tests"
+Directory: D:/IMT Scolarship/GTest/LAB1/build
+"DifferentValues/FactTesting.FactorialResult/(1, 1)" start time: Dec 09 00:45 Egypt Standard Time
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DifferentValues/FactTesting.FactorialResult/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DifferentValues/FactTesting
+[ RUN      ] DifferentValues/FactTesting.FactorialResult/1
+[       OK ] DifferentValues/FactTesting.FactorialResult/1 (0 ms)
+[----------] 1 test from DifferentValues/FactTesting (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"DifferentValues/FactTesting.FactorialResult/(1, 1)" end time: Dec 09 00:45 Egypt Standard Time
+"DifferentValues/FactTesting.FactorialResult/(1, 1)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: DifferentValues/FactTesting.FactorialResult/(2, 2)
+3/6 Test: DifferentValues/FactTesting.FactorialResult/(2, 2)
+Command: "D:/IMT Scolarship/GTest/LAB1/build/Fact.exe" "--gtest_filter=DifferentValues/FactTesting.FactorialResult/2" "--gtest_also_run_disabled_tests"
+Directory: D:/IMT Scolarship/GTest/LAB1/build
+"DifferentValues/FactTesting.FactorialResult/(2, 2)" start time: Dec 09 00:45 Egypt Standard Time
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DifferentValues/FactTesting.FactorialResult/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DifferentValues/FactTesting
+[ RUN      ] DifferentValues/FactTesting.FactorialResult/2
+[       OK ] DifferentValues/FactTesting.FactorialResult/2 (0 ms)
+[----------] 1 test from DifferentValues/FactTesting (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"DifferentValues/FactTesting.FactorialResult/(2, 2)" end time: Dec 09 00:45 Egypt Standard Time
+"DifferentValues/FactTesting.FactorialResult/(2, 2)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: DifferentValues/FactTesting.FactorialResult/(3, 6)
+4/6 Test: DifferentValues/FactTesting.FactorialResult/(3, 6)
+Command: "D:/IMT Scolarship/GTest/LAB1/build/Fact.exe" "--gtest_filter=DifferentValues/FactTesting.FactorialResult/3" "--gtest_also_run_disabled_tests"
+Directory: D:/IMT Scolarship/GTest/LAB1/build
+"DifferentValues/FactTesting.FactorialResult/(3, 6)" start time: Dec 09 00:45 Egypt Standard Time
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DifferentValues/FactTesting.FactorialResult/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DifferentValues/FactTesting
+[ RUN      ] DifferentValues/FactTesting.FactorialResult/3
+[       OK ] DifferentValues/FactTesting.FactorialResult/3 (0 ms)
+[----------] 1 test from DifferentValues/FactTesting (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"DifferentValues/FactTesting.FactorialResult/(3, 6)" end time: Dec 09 00:45 Egypt Standard Time
+"DifferentValues/FactTesting.FactorialResult/(3, 6)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: DifferentValues/FactTesting.FactorialResult/(4, 24)
+5/6 Test: DifferentValues/FactTesting.FactorialResult/(4, 24)
+Command: "D:/IMT Scolarship/GTest/LAB1/build/Fact.exe" "--gtest_filter=DifferentValues/FactTesting.FactorialResult/4" "--gtest_also_run_disabled_tests"
+Directory: D:/IMT Scolarship/GTest/LAB1/build
+"DifferentValues/FactTesting.FactorialResult/(4, 24)" start time: Dec 09 00:45 Egypt Standard Time
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DifferentValues/FactTesting.FactorialResult/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DifferentValues/FactTesting
+[ RUN      ] DifferentValues/FactTesting.FactorialResult/4
+[       OK ] DifferentValues/FactTesting.FactorialResult/4 (0 ms)
+[----------] 1 test from DifferentValues/FactTesting (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"DifferentValues/FactTesting.FactorialResult/(4, 24)" end time: Dec 09 00:45 Egypt Standard Time
+"DifferentValues/FactTesting.FactorialResult/(4, 24)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: DifferentValues/FactTesting.FactorialResult/(5, 120)
+6/6 Test: DifferentValues/FactTesting.FactorialResult/(5, 120)
+Command: "D:/IMT Scolarship/GTest/LAB1/build/Fact.exe" "--gtest_filter=DifferentValues/FactTesting.FactorialResult/5" "--gtest_also_run_disabled_tests"
+Directory: D:/IMT Scolarship/GTest/LAB1/build
+"DifferentValues/FactTesting.FactorialResult/(5, 120)" start time: Dec 09 00:45 Egypt Standard Time
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DifferentValues/FactTesting.FactorialResult/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DifferentValues/FactTesting
+[ RUN      ] DifferentValues/FactTesting.FactorialResult/5
+[       OK ] DifferentValues/FactTesting.FactorialResult/5 (0 ms)
+[----------] 1 test from DifferentValues/FactTesting (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"DifferentValues/FactTesting.FactorialResult/(5, 120)" end time: Dec 09 00:45 Egypt Standard Time
+"DifferentValues/FactTesting.FactorialResult/(5, 120)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 09 00:45 Egypt Standard Time

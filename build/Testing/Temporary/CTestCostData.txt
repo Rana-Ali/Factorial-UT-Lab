@@ -1,0 +1,7 @@
+DifferentValues/FactTesting.FactorialResult/(0, 1) 1 0.0592114
+DifferentValues/FactTesting.FactorialResult/(1, 1) 1 0.0707257
+DifferentValues/FactTesting.FactorialResult/(2, 2) 1 0.0659956
+DifferentValues/FactTesting.FactorialResult/(3, 6) 1 0.0726823
+DifferentValues/FactTesting.FactorialResult/(4, 24) 1 0.0624404
+DifferentValues/FactTesting.FactorialResult/(5, 120) 1 0.0640945
+---
